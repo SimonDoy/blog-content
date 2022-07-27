@@ -1,2 +1,2 @@
-# blog-content
-Contains media related to simondoy.com
+# Introduction
+This repository contains media related to simondoy.com
